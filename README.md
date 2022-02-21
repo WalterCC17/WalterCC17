@@ -13,7 +13,7 @@
 ```javascript
 const walter = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML,Python ],
+  code(not yet mastered): [Javascript, HTML,Python ],
   tools: [undiscovered for the moment],
   Interested in learning : ["front-end development", "Application development"],
   Skills: {
