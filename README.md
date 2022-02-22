@@ -28,3 +28,5 @@ const walter = {
 <img src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47nrcfpn7tbf7d7jsto6nbwt2qrd4lhmaw4jk7y921&rid=giphy.gif&ct=s" width="80"> <em><b>I love programming and everything related to it.💙 </b>  <b></b> :)</em>
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterCC17&show_icons=true&theme=github_dark)
