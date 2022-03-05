@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Walter Casia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://pbs.twimg.com/media/FLQSzYLWYAAkrbj?format=jpg&name=small" width="230">
+<img align='right' src="https://i.ibb.co/GFGhtjz/15.png" width="230">
 <p><em>I study computer engineering at <a href="https://www.ingenieria.unam.mx/">Universidad Nacional Autonoma de Mexico</a><img src="https://stickers.gg/assets/stickers/2379-wumpus-love.png" width="30"></br>Lover of programming focused on web development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
