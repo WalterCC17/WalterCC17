@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Walter Casia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.ibb.co/GFGhtjz/15.png" width="230">
+<img align='right' src="https://i.ibb.co/hgMMjTQ/c0969f634d0f396cc450144041a8e77f.png" width="230">
 <p><em>I study computer engineering at <a href="https://www.ingenieria.unam.mx/">Universidad Nacional Autonoma de Mexico</a><img src="https://stickers.gg/assets/stickers/2379-wumpus-love.png" width="30"></br>Lover of programming focused on web development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -8,7 +8,7 @@
 [![GitHub WalterCasia](https://img.shields.io/github/followers/WalterCC17?style=social)](https://github.com/WalterCC17)
 
 
-### <img src="https://vultam.net/img/background/wumpus.png" width="50"> A little more about me...  
+### <img src="https://i.ibb.co/x2WwT66/calaca.gif" width="50"> A little more about me...  
 
 ```javascript
 const walter = {
